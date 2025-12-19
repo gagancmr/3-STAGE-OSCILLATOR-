@@ -1,6 +1,6 @@
 # 3-STAGE-OSCILLATOR-
-## REG NUM :
-## NAME :
+## REG NUM :25011767
+## NAME :Khotla Gagan Prathyush
 
 ## Aim: To Design CMOS 3 stage oscillator and OP analysis.
 
@@ -40,6 +40,7 @@ Net list and Run in the simulation window to start the Simulation.
 When simulation finishes, the transient automatically will be popped up along file.
 
 ## waveform:
+<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/5ed69e80-447c-4bac-8d58-d9a1f3d402f1" />
 
 
 ## Result:
